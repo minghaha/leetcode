@@ -33,7 +33,7 @@ package com.example.leetcode;
  * @author: licm
  * @create: 2021-05-25 14:36
  **/
-public class Lc509_斐波那契数 {
+    public class Lc509_斐波那契数 {
 
     /**
      * 对于动态规划问题，我将拆解为如下五步曲，这五步都搞清楚了，才能说把动态规划真的掌握了！
